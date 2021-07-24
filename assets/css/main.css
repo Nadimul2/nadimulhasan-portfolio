@@ -3464,8 +3464,8 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#banner {
-				padding: #2e314100 ;
-				background-color: #2e3141;
+				padding:7em 0 8.25em 0 ;
+				background-color: #00000000;
 				background-image: linear-gradient(to top, rgba(10, 0, 63, 0), rgba(46, 49, 65, 0)), url("");
 				background-size: auto,
  cover;
